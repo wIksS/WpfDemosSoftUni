@@ -1,0 +1,14 @@
+C:\Users\Sadmin\source\repos\Shirts\Shirts.Data\bin\Debug\Shirts.Data.dll.config
+C:\Users\Sadmin\source\repos\Shirts\Shirts.Data\bin\Debug\Shirts.Data.dll
+C:\Users\Sadmin\source\repos\Shirts\Shirts.Data\bin\Debug\Shirts.Data.pdb
+C:\Users\Sadmin\source\repos\Shirts\Shirts.Data\bin\Debug\EntityFramework.dll
+C:\Users\Sadmin\source\repos\Shirts\Shirts.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sadmin\source\repos\Shirts\Shirts.Data\bin\Debug\Shirts.Models.dll
+C:\Users\Sadmin\source\repos\Shirts\Shirts.Data\bin\Debug\Shirts.Models.pdb
+C:\Users\Sadmin\source\repos\Shirts\Shirts.Data\bin\Debug\EntityFramework.xml
+C:\Users\Sadmin\source\repos\Shirts\Shirts.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sadmin\source\repos\Shirts\Shirts.Data\obj\Debug\Shirts.Data.csprojAssemblyReference.cache
+C:\Users\Sadmin\source\repos\Shirts\Shirts.Data\obj\Debug\Shirts.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sadmin\source\repos\Shirts\Shirts.Data\obj\Debug\Shirts.Data.csproj.CopyComplete
+C:\Users\Sadmin\source\repos\Shirts\Shirts.Data\obj\Debug\Shirts.Data.dll
+C:\Users\Sadmin\source\repos\Shirts\Shirts.Data\obj\Debug\Shirts.Data.pdb

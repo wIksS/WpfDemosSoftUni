@@ -1,0 +1,15 @@
+C:\Users\Sadmin\source\repos\Layouts\EfData\bin\Debug\EfData.dll.config
+C:\Users\Sadmin\source\repos\Layouts\EfData\bin\Debug\EfData.dll
+C:\Users\Sadmin\source\repos\Layouts\EfData\bin\Debug\EfData.pdb
+C:\Users\Sadmin\source\repos\Layouts\EfData\bin\Debug\EntityFramework.dll
+C:\Users\Sadmin\source\repos\Layouts\EfData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sadmin\source\repos\Layouts\EfData\bin\Debug\EntityFramework.xml
+C:\Users\Sadmin\source\repos\Layouts\EfData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sadmin\source\repos\Layouts\EfData\obj\Debug\EfData.csprojAssemblyReference.cache
+C:\Users\Sadmin\source\repos\Layouts\EfData\obj\Debug\EfData.csproj.CoreCompileInputs.cache
+C:\Users\Sadmin\source\repos\Layouts\EfData\obj\Debug\EfData.csproj.CopyComplete
+C:\Users\Sadmin\source\repos\Layouts\EfData\obj\Debug\EfData.dll
+C:\Users\Sadmin\source\repos\Layouts\EfData\obj\Debug\EfData.pdb
+C:\Users\Sadmin\source\repos\Layouts\EfData\obj\Debug\EfData.Migrations.InitialCreate.resources
+C:\Users\Sadmin\source\repos\Layouts\EfData\obj\Debug\EfData.csproj.GenerateResource.cache
+C:\Users\Sadmin\source\repos\Layouts\EfData\obj\Debug\EfData.Migrations.test.resources

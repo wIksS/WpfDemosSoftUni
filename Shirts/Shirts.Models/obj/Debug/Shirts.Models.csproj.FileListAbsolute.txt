@@ -1,0 +1,6 @@
+C:\Users\Sadmin\source\repos\Shirts\Shirts.Models\bin\Debug\Shirts.Models.dll
+C:\Users\Sadmin\source\repos\Shirts\Shirts.Models\bin\Debug\Shirts.Models.pdb
+C:\Users\Sadmin\source\repos\Shirts\Shirts.Models\obj\Debug\Shirts.Models.csprojAssemblyReference.cache
+C:\Users\Sadmin\source\repos\Shirts\Shirts.Models\obj\Debug\Shirts.Models.csproj.CoreCompileInputs.cache
+C:\Users\Sadmin\source\repos\Shirts\Shirts.Models\obj\Debug\Shirts.Models.dll
+C:\Users\Sadmin\source\repos\Shirts\Shirts.Models\obj\Debug\Shirts.Models.pdb

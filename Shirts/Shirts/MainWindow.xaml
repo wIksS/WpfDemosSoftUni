@@ -1,0 +1,39 @@
+﻿<Window x:Class="Shirts.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Shirts"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label>Model</Label>
+            <TextBox Width="200" Name="Model"></TextBox>
+        </StackPanel>
+        <Separator Height="30"></Separator>
+
+        <StackPanel Orientation="Horizontal">
+            <Label>Manufacturer</Label>
+            <TextBox Width="200" Name="Manufacturer"></TextBox>
+        </StackPanel>
+        <Separator Height="30"></Separator>
+
+        <StackPanel Orientation="Horizontal">
+            <Label>Price</Label>
+            <TextBox Width="200" Name="Price"></TextBox>
+        </StackPanel>
+        <Separator Height="30"></Separator>
+
+        <StackPanel Orientation="Horizontal">
+            <Label>Dirtiness</Label>
+            <TextBox Width="200" Name="Dirtiness"></TextBox>
+        </StackPanel>
+        <Separator Height="30"></Separator>
+        <Button Click="AddShirt">Add shirt</Button>
+
+        <ListView Name="Shirts">
+            
+        </ListView>
+    </StackPanel>
+</Window>
